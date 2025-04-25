@@ -482,28 +482,28 @@ body {
 
 .becauseULetter {
   font-size: 27px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: rgb(255, 188, 27);
+  text-decoration: underline;
+  text-transform: capitalize;
   font-family: 'Special Gothic Expanded One';
 }
 
 .becauseSLetter {
   font-size: 85px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bolder;
+  color: rgb(55, 88, 627);
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Tuffy';
 }
 
 .becauseETwoLetter {
   font-size: 60px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: rgb(15, 98, 627);
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
@@ -511,37 +511,37 @@ body {
 
 .theyTLetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: rgb(15, 98, 67);
+  text-decoration: underline;
+  text-transform: capitalize;
   font-family: 'sans-serif';
 }
 
 .theyHLetter {
   font-size: 18px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: rgb(45, 86, 627);
+  text-decoration: underline;
+  text-transform: none;
   font-family: 'Special Gothic Expanded One';
 }
 
 .theyELetter {
   font-size: 53px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: rgb(75, 98, 627);
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Ceviche One';
 }
 
 .theyYLetter {
   font-size: 44px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: rgb(25, 255, 627);
+  text-decoration: none;
+  text-transform: uppercase;
   font-family: 'Raleway Dots';
 }
 
@@ -549,55 +549,55 @@ body {
 
 .wantedWLetter {
   font-size: 72px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: rgb(15, 98, 627);
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Monsieur La Doulaise';
 }
 
 .wantedALetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: rgb(25, 255, 67);
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
 .wantedNLetter {
   font-size: 28px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: thistle;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Special Gothic Expanded One';
 }
 
 .wantedTLetter {
   font-size: 27px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: tomato;
+  text-decoration: line-through;
+  text-transform: uppercase;
   font-family: 'Raleway Dots';
 }
 
 .wantedELetter {
   font-size: 44px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: wheat;
+  text-decoration: underline;
+  text-transform: capitalize;
   font-family: 'Tuffy';
 }
 
 .wantedDLetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bold;
+  color: coral;
+  text-decoration: none;
+  text-transform: uppercase;
   font-family: 'sans-serif';
 }
 
@@ -605,19 +605,19 @@ body {
 
 .toTLetter {
   font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: salmon;
+  text-decoration: underline;
+  text-transform: capitalize;
   font-family: 'Monsieur La Doulaise';
 }
 
 .toOLetter {
   font-size: 28px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: seashell;
+  text-decoration: overline;
+  text-transform: lowercase;
   font-family: 'Special Gothic Expanded One';
 }
 
@@ -625,37 +625,37 @@ body {
 
 .improveILetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: silver;
+  text-decoration: none;
+  text-transform: uppercase;
   font-family: 'sans-serif';
 }
 
 .improveMLetter {
   font-size: 85px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: rgb(55, 88, 627);
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Ceviche One';
 }
 
 .improvePLetter {
   font-size: 99px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bold;
+  color: gainsboro;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Tuffy';
 }
 
 .improveRLetter {
   font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: midnightblue;
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 'Raleway Dots';
 }
 
