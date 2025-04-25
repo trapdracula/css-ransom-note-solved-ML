@@ -223,81 +223,81 @@ body {
 .developerDLetter {
   font-size: 60px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: gold;
+  text-decoration: line-through;
+  text-transform: capitalize;
   font-family: 'Monsieur La Doulaise';
 }
 
 .developerELetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bolder;
+  color: goldenrod;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'sans-serif';
 }
 
 .developerVLetter {
   font-size: 14px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: palevioletred;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
 .developerETwoLetter {
   font-size: 28px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: hotpink;
+  text-decoration: overline;
+  text-transform: capitalize;
   font-family: 'Special Gothic Expanded One';
 }
 
 .developerLLetter {
   font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: blueviolet;
+  text-decoration: overline;
+  text-transform: capitalize;
   font-family: 'Monsieur La Doulaise';
 }
 
 .developerOLetter {
   font-size: 99px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: burlywood;
+  text-decoration: line-through;
+  text-transform: capitalize;
   font-family: 'sans-serif';
 }
 
 .developerPLetter {
   font-size: 53px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: black;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
 .developerEThreeLetter {
   font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: blanchedalmond;
+  text-decoration: underline;
+  text-transform: uppercase;
   font-family: 'Monsieur La Doulaise';
 }
 
 .developerRLetter {
   font-size: 27px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: brown;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'sans-serif';
 }
 
@@ -305,37 +305,37 @@ body {
 
 .takeTLetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: chartreuse;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Special Gothic Expanded One';
 }
 
 .takeALetter {
   font-size: 14px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: chocolate;
+  text-decoration: overline;
+  text-transform: uppercase;
   font-family: 'Piazolla';
 }
 
 .takeKLetter {
   font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: cornsilk;
+  text-decoration: overline;
+  text-transform: capitalize;
   font-family: 'Monsieur La Doulaise';
 }
 
 .takeELetter {
   font-size: 53px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: cornflowerblue;
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 'Ceviche One';
 }
 
@@ -343,19 +343,19 @@ body {
 
 .upULetter {
   font-size: 14px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: crimson;
+  text-decoration: line-through;
+  text-transform: capitalize;
   font-family: 'sans-serif';
 }
 
 .upPLetter {
   font-size: 39px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: cyan;
+  text-decoration: line-through;
+  text-transform: uppercase;
   font-family: 'Raleway Dots';
 }
 
@@ -363,37 +363,37 @@ body {
 
 .gardeningGLetter {
   font-size: 27px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bold;
+  color: deeppink;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Monsieur La Doulaise';
 }
 
 .gardeningALetter {
   font-size: 85px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bolder;
+  color: dodgerblue;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Special Gothic Expanded One';
 }
 
 .gardeningRLetter {
   font-size: 53px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bolder;
+  color: darkslateblue;
+  text-decoration: underline;
+  text-transform: uppercase;
   font-family: 'sans-serif';
 }
 
 .gardeningDLetter {
   font-size: 18px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: fuchsia;
+  text-decoration: line-through;
+  text-transform: uppercase;
   font-family: 'Monsieur La Doulaise';
 }
 
@@ -409,36 +409,36 @@ body {
 .gardeningNLetter {
   font-size: 66px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: peru;
+  text-decoration: overline;
+  text-transform: lowercase;
   font-family: 'sans-serif';
 }
 
 .gardeningILetter {
   font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: rgb(45, 188, 627);
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
 .gardeningNTwoLetter {
   font-size: 72px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: purple;
+  text-decoration: overline;
+  text-transform: capitalize;
   font-family: 'Ceviche One';
 }
 
 .gardeningGTwoLetter {
   font-size: 14px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bolder;
+  color: cadetblue;
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Special Gothic Expanded One';
 }
 
@@ -446,37 +446,37 @@ body {
 
 .becauseBLetter {
   font-size: 44px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 700px;
+  color: ghostwhite;
+  text-decoration: overline;
+  text-transform: capitalize;
   font-family: 'Monsieur La Doulaise';
 }
 
 .becauseELetter {
   font-size: 99px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: indigo;
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Raleway Dots';
 }
 
 .becauseCLetter {
   font-size: 28px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: rgba(44, 187, 65, 0.2);
+  text-decoration: line-through;
+  text-transform: capitalize;
   font-family: 'Monsieur La Doulaise';
 }
 
 .becauseALetter {
   font-size: 39px;
   font-weight: bold;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  color: rgb(255, 18, 627);
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'sans-serif';
 }
 
