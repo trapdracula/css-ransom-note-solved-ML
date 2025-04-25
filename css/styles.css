@@ -221,451 +221,451 @@ body {
 /* DEVELOPER word */
 
 .developerDLetter {
-  font-size: 27px;
-  font-weight: bolder;
-  color: pink;
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'monospace';
+  font-size: 60px;
+  font-weight: bold;
+  color: ;
+  text-decoration: ;
+  text-transform: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .developerELetter {
-  font-size: 36px;
-  font-weight: bold;
-  color: yellow;
-  text-decoration: underline;
-  text-transform: capitalize;
-  font-family: 'courier new';
+  font-size: 39px;
+  font-weight: ;
+  color: ;
+  text-decoration: ;
+  text-transform: ;
+  font-family: 'sans-serif';
 }
 
 .developerVLetter {
-  font-size: 77px;
-  font-weight: normal;
-  color: red;
-  text-decoration: line-through;
-  text-transform: none;
-  font-family: 'arial';
+  font-size: 14px;
+  font-weight: ;
+  color: ;
+  text-decoration: ;
+  text-transform: ;
+  font-family: 'Piazolla';
 }
 
 .developerETwoLetter {
-  font-size: ;
-  font-weight: ;
+  font-size: 28px;
+  font-weight: bold;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .developerLLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .developerOLetter {
-  font-size: ;
+  font-size: 99px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .developerPLetter {
-  font-size: ;
+  font-size: 53px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 .developerEThreeLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .developerRLetter {
-  font-size: ;
+  font-size: 27px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 /* TAKE word */
 
 .takeTLetter {
-  font-size: ;
+  font-size: 39px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .takeALetter {
-  font-size: ;
+  font-size: 14px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 .takeKLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .takeELetter {
-  font-size: ;
-  font-weight: ;
+  font-size: 53px;
+  font-weight: bold;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Ceviche One';
 }
 
 /* UP word */
 
 .upULetter {
-  font-size: ;
+  font-size: 14px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .upPLetter {
-  font-size: ;
+  font-size: 39px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Raleway Dots';
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
-  font-size: ;
+  font-size: 27px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .gardeningALetter {
-  font-size: ;
+  font-size: 85px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .gardeningRLetter {
-  font-size: ;
+  font-size: 53px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .gardeningDLetter {
-  font-size: ;
+  font-size: 18px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .gardeningELetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: ;
+  font-size: 22px;
+  font-weight: bolder;
+  color: orangered;
+  text-decoration: line-through;
+  text-transform: capitalize;
+  font-family: 'Tuffy';
 }
 
 .gardeningNLetter {
-  font-size: ;
-  font-weight: ;
+  font-size: 66px;
+  font-weight: bold;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .gardeningILetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 .gardeningNTwoLetter {
-  font-size: ;
+  font-size: 72px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Ceviche One';
 }
 
 .gardeningGTwoLetter {
-  font-size: ;
+  font-size: 14px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
-  font-size: ;
+  font-size: 44px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .becauseELetter {
-  font-size: ;
-  font-weight: ;
+  font-size: 99px;
+  font-weight: bold;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Raleway Dots';
 }
 
 .becauseCLetter {
-  font-size: ;
+  font-size: 28px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .becauseALetter {
-  font-size: ;
-  font-weight: ;
+  font-size: 39px;
+  font-weight: bold;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .becauseULetter {
-  font-size: ;
+  font-size: 27px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .becauseSLetter {
-  font-size: ;
+  font-size: 85px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Tuffy';
 }
 
 .becauseETwoLetter {
-  font-size: ;
-  font-weight: ;
+  font-size: 60px;
+  font-weight: bold;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 /* THEY word */
 
 .theyTLetter {
-  font-size: ;
+  font-size: 39px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .theyHLetter {
-  font-size: ;
+  font-size: 18px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .theyELetter {
-  font-size: ;
+  font-size: 53px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Ceviche One';
 }
 
 .theyYLetter {
-  font-size: ;
+  font-size: 44px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Raleway Dots';
 }
 
 /* WANTED word */
 
 .wantedWLetter {
-  font-size: ;
+  font-size: 72px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .wantedALetter {
-  font-size: ;
+  font-size: 39px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 .wantedNLetter {
-  font-size: ;
+  font-size: 28px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .wantedTLetter {
-  font-size: ;
+  font-size: 27px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Raleway Dots';
 }
 
 .wantedELetter {
-  font-size: ;
+  font-size: 44px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Tuffy';
 }
 
 .wantedDLetter {
-  font-size: ;
+  font-size: 39px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 /* TO word */
 
 .toTLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .toOLetter {
-  font-size: ;
+  font-size: 28px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 /* IMPROVE word */
 
 .improveILetter {
-  font-size: ;
+  font-size: 39px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'sans-serif';
 }
 
 .improveMLetter {
-  font-size: ;
+  font-size: 85px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Ceviche One';
 }
 
 .improvePLetter {
-  font-size: ;
+  font-size: 99px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Tuffy';
 }
 
 .improveRLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Raleway Dots';
 }
 
 .improveOLetter {
-  font-size: ;
+  font-size: 72px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .improveVLetter {
@@ -674,16 +674,16 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Gill Sans';
 }
 
 .improveELetter {
-  font-size: ;
+  font-size: 53px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 /* THEIR word */
@@ -694,34 +694,34 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .theirHLetter {
-  font-size: ;
+  font-size: 18px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Raleway Dots';
 }
 
 .theirELetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .theirILetter {
-  font-size: ;
+  font-size: 72px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Gill Sans';
 }
 
 .theirRLetter {
@@ -730,18 +730,18 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Tuffy';
 }
 
 /* ROOT word */
 
 .rootRLetter {
-  font-size: ;
+  font-size: 85px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Gill Sans';
 }
 
 .rootOLetter {
@@ -750,36 +750,36 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 .rootOTwoLetter {
-  font-size: ;
+  font-size: 18px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .rootTLetter {
-  font-size: ;
+  font-size: 99px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Tuffy';
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Ceviche One';
 }
 
 .skillsKLetter {
@@ -788,7 +788,7 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Piazolla';
 }
 
 .skillsILetter {
@@ -797,7 +797,7 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Monsieur La Doulaise';
 }
 
 .skillsLLetter {
@@ -806,25 +806,25 @@ body {
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Gill Sans';
 }
 
 .skillsLTwoLetter {
-  font-size: ;
+  font-size: 60px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Tuffy';
 }
 
 .skillsSTwoLetter {
-  font-size: ;
+  font-size: 18px;
   font-weight: ;
   color: ;
   text-decoration: ;
   text-transform: ;
-  font-family: ;
+  font-family: 'Special Gothic Expanded One';
 }
 
 /* SYMBOLS */
