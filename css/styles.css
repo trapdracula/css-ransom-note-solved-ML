@@ -661,170 +661,170 @@ body {
 
 .improveOLetter {
   font-size: 72px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: normal;
+  color: floralwhite;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Special Gothic Expanded One';
 }
 
 .improveVLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 44px;
+  font-weight: 400px;
+  color: rosybrown;
+  text-decoration: line-through;
+  text-transform: uppercase;
   font-family: 'Gill Sans';
 }
 
 .improveELetter {
   font-size: 53px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: 400px;
+  color: green;
+  text-decoration: overline;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
 /* THEIR word */
 
 .theirTLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 69px;
+  font-weight: bold;
+  color: olive;
+  text-decoration: line-through;
+  text-transform: uppercase;
   font-family: 'Monsieur La Doulaise';
 }
 
 .theirHLetter {
   font-size: 18px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-weight: bolder;
+  color: olivedrab;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Raleway Dots';
 }
 
 .theirELetter {
-  font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 18px;
+  font-weight: normal;
+  color: rgb(45, 86, 627);
+  text-decoration: underline;
+  text-transform: none;
   font-family: 'Special Gothic Expanded One';
 }
 
 .theirILetter {
   font-size: 72px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Gill Sans';
+  font-weight: normal;
+  color: purple;
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: 'Ceviche One';
 }
 
 .theirRLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 99px;
+  font-weight: bold;
+  color: gainsboro;
+  text-decoration: underline;
+  text-transform: lowercase;
   font-family: 'Tuffy';
 }
 
 /* ROOT word */
 
 .rootRLetter {
-  font-size: 85px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Gill Sans';
+  font-size: 99px;
+  font-weight: bold;
+  color: indigo;
+  text-decoration: line-through;
+  text-transform: lowercase;
+  font-family: 'Raleway Dots';
 }
 
 .rootOLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Piazolla';
+  font-size: 72px;
+  font-weight: normal;
+  color: purple;
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: 'Ceviche One';
 }
 
 .rootOTwoLetter {
-  font-size: 18px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Special Gothic Expanded One';
+  font-size: 14px;
+  font-weight: 700px;
+  color: crimson;
+  text-decoration: line-through;
+  text-transform: capitalize;
+  font-family: 'sans-serif';
 }
 
 .rootTLetter {
-  font-size: 99px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Tuffy';
+  font-size: 72px;
+  font-weight: normal;
+  color: purple;
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: 'Ceviche One';
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
-  font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Ceviche One';
+  font-size: 99px;
+  font-weight: bold;
+  color: gainsboro;
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Tuffy';
 }
 
 .skillsKLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
+  font-size: 25px;
+  font-weight: bold;
+  color: indigo;
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Piazolla';
 }
 
 .skillsILetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Monsieur La Doulaise';
+  font-size: 39px;
+  font-weight: 400px;
+  color: rgb(25, 255, 67);
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Piazolla';
 }
 
 .skillsLLetter {
-  font-size: ;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Gill Sans';
+  font-size: 72px;
+  font-weight: normal;
+  color: purple;
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: 'Ceviche One';
 }
 
 .skillsLTwoLetter {
-  font-size: 60px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Tuffy';
+  font-size: 18px;
+  font-weight: normal;
+  color: rgb(45, 86, 627);
+  text-decoration: underline;
+  text-transform: none;
+  font-family: 'Special Gothic Expanded One';
 }
 
 .skillsSTwoLetter {
-  font-size: 18px;
-  font-weight: ;
-  color: ;
-  text-decoration: ;
-  text-transform: ;
-  font-family: 'Special Gothic Expanded One';
+  font-size: 39px;
+  font-weight: 400px;
+  color: rgb(25, 255, 67);
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Piazolla';
 }
 
 /* SYMBOLS */
