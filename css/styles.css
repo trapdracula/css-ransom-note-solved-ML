@@ -184,7 +184,7 @@ body {
 
 .frontendTLetter {
   font-size: 18px;
-  font-weight: 700px;
+  font-weight: 700;
   color: rgb(45, 188, 627);
   text-decoration: underline;
   text-transform: capitalize;
@@ -193,7 +193,7 @@ body {
 
 .frontendELetter {
   font-size: 27px;
-  font-weight: 400px;
+  font-weight: 400;
   color: greenyellow;
   text-decoration: line-through;
   text-transform: capitalize;
@@ -202,7 +202,7 @@ body {
 
 .frontendNTwoLetter {
   font-size: 56px;
-  font-weight: 400px;
+  font-weight: 400;
   color: maroon;
   text-decoration: overline;
   text-transform: lowercase;
@@ -267,7 +267,7 @@ body {
 
 .developerOLetter {
   font-size: 99px;
-  font-weight: 700px;
+  font-weight: 700;
   color: burlywood;
   text-decoration: line-through;
   text-transform: capitalize;
@@ -276,7 +276,7 @@ body {
 
 .developerPLetter {
   font-size: 53px;
-  font-weight: 700px;
+  font-weight: 700;
   color: black;
   text-decoration: underline;
   text-transform: lowercase;
@@ -285,7 +285,7 @@ body {
 
 .developerEThreeLetter {
   font-size: 60px;
-  font-weight: 400px;
+  font-weight: 400;
   color: blanchedalmond;
   text-decoration: underline;
   text-transform: uppercase;
@@ -294,7 +294,7 @@ body {
 
 .developerRLetter {
   font-size: 27px;
-  font-weight: 700px;
+  font-weight: 700;
   color: brown;
   text-decoration: underline;
   text-transform: lowercase;
@@ -323,7 +323,7 @@ body {
 
 .takeKLetter {
   font-size: 60px;
-  font-weight: 400px;
+  font-weight: 400;
   color: cornsilk;
   text-decoration: overline;
   text-transform: capitalize;
@@ -343,7 +343,7 @@ body {
 
 .upULetter {
   font-size: 14px;
-  font-weight: 700px;
+  font-weight: 700;
   color: crimson;
   text-decoration: line-through;
   text-transform: capitalize;
@@ -390,7 +390,7 @@ body {
 
 .gardeningDLetter {
   font-size: 18px;
-  font-weight: 400px;
+  font-weight: 400;
   color: fuchsia;
   text-decoration: line-through;
   text-transform: uppercase;
@@ -446,7 +446,7 @@ body {
 
 .becauseBLetter {
   font-size: 44px;
-  font-weight: 700px;
+  font-weight: 700;
   color: ghostwhite;
   text-decoration: overline;
   text-transform: capitalize;
@@ -464,7 +464,7 @@ body {
 
 .becauseCLetter {
   font-size: 28px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgba(44, 187, 65, 0.2);
   text-decoration: line-through;
   text-transform: capitalize;
@@ -482,7 +482,7 @@ body {
 
 .becauseULetter {
   font-size: 27px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgb(255, 188, 27);
   text-decoration: underline;
   text-transform: capitalize;
@@ -511,7 +511,7 @@ body {
 
 .theyTLetter {
   font-size: 39px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgb(15, 98, 67);
   text-decoration: underline;
   text-transform: capitalize;
@@ -549,7 +549,7 @@ body {
 
 .wantedWLetter {
   font-size: 72px;
-  font-weight: 700px;
+  font-weight: 700;
   color: rgb(15, 98, 627);
   text-decoration: line-through;
   text-transform: lowercase;
@@ -558,7 +558,7 @@ body {
 
 .wantedALetter {
   font-size: 39px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgb(25, 255, 67);
   text-decoration: underline;
   text-transform: lowercase;
@@ -576,7 +576,7 @@ body {
 
 .wantedTLetter {
   font-size: 27px;
-  font-weight: 400px;
+  font-weight: 400;
   color: tomato;
   text-decoration: line-through;
   text-transform: uppercase;
@@ -614,7 +614,7 @@ body {
 
 .toOLetter {
   font-size: 28px;
-  font-weight: 700px;
+  font-weight: 700;
   color: seashell;
   text-decoration: overline;
   text-transform: lowercase;
@@ -634,7 +634,7 @@ body {
 
 .improveMLetter {
   font-size: 85px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgb(55, 88, 627);
   text-decoration: line-through;
   text-transform: lowercase;
@@ -670,7 +670,7 @@ body {
 
 .improveVLetter {
   font-size: 44px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rosybrown;
   text-decoration: line-through;
   text-transform: uppercase;
@@ -679,7 +679,7 @@ body {
 
 .improveELetter {
   font-size: 53px;
-  font-weight: 400px;
+  font-weight: 400;
   color: green;
   text-decoration: overline;
   text-transform: lowercase;
@@ -755,7 +755,7 @@ body {
 
 .rootOTwoLetter {
   font-size: 14px;
-  font-weight: 700px;
+  font-weight: 700;
   color: crimson;
   text-decoration: line-through;
   text-transform: capitalize;
@@ -793,7 +793,7 @@ body {
 
 .skillsILetter {
   font-size: 39px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgb(25, 255, 67);
   text-decoration: underline;
   text-transform: lowercase;
@@ -820,7 +820,7 @@ body {
 
 .skillsSTwoLetter {
   font-size: 39px;
-  font-weight: 400px;
+  font-weight: 400;
   color: rgb(25, 255, 67);
   text-decoration: underline;
   text-transform: lowercase;
@@ -829,7 +829,8 @@ body {
 
 /* SYMBOLS */
 
-.hyphen {
+.hyphen,
+.question-mark {
   font-size: 49px;
   font-weight: normal;
   color: purple;
@@ -845,13 +846,4 @@ body {
   text-decoration: overline;
   text-transform: none;
   font-family: 'impact';
-}
-
-.question-mark {
-  font-size: 55px;
-  font-weight: 400;
-  color: lavenderblush;
-  text-decoration: underline;
-  text-transform: none;
-  font-family: 'Special Gothic Expanded One';
 }
